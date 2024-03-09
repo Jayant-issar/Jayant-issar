@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="171" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="171" src="https://pin.it/3RNTLMXUB"  />
 
 ###
 
@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jayant-issar/Jayant-issar/output/snake.svg" alt="Snake animation" />
+
 
 ###
